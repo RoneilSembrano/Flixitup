@@ -1,0 +1,6 @@
+framework module Pods_Flixitup {
+  umbrella header "Pods-Flixitup-umbrella.h"
+
+  export *
+  module * { export * }
+}
