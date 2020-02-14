@@ -10,9 +10,7 @@ import UIKit
 
 class MovieCell: UITableViewCell {
     @IBOutlet weak var titleLabel: UILabel!
-    
     @IBOutlet weak var synopsisLabel: UILabel!
-     
     @IBOutlet weak var posterView: UIImageView!
     
     override func awakeFromNib() {
@@ -25,5 +23,4 @@ class MovieCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
-
 }
