@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/roneilsembrano/Desktop/Flixitup/Flixitup/MovieGridCell.swift">
+   </FileRef>
+   <FileRef
       location = "group:Flixitup.xcodeproj">
    </FileRef>
    <FileRef

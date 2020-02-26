@@ -38,7 +38,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource,UITableViewD
               // TODO: Get the array of movies
               // TODO: Store the movies in a property to use elsewhere
               // TODO: Reload your table view data
-    print(dataDictionary)
+    //print(dataDictionary)
                }
             }
            
@@ -57,11 +57,11 @@ class MoviesViewController: UIViewController, UITableViewDataSource,UITableViewD
 
         cell.titleLabel.text = title
         cell.synopsisLabel.text = synopsis
-        
-        let baseUrl    = "https://image.tmdb.org/t/p/w185"
+        let baseUrl = "https://image.tmdb.org/t/p/w185"
         let posterPath = movie["poster_path"] as! String
         let posterUrl  = URL(string: baseUrl + posterPath)
         cell.posterView.af_setImage(withURL: posterUrl!)
+ 
         return cell
         
     }
