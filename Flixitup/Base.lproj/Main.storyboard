@@ -47,8 +47,8 @@
                                 <cells>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="MovieGridCell" id="u2o-QN-Blk" customClass="MovieGridCell" customModule="Flixitup" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="191" height="264"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="j3Q-W0-fV8">
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" insetsLayoutMarginsFromSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="j3Q-W0-fV8">
                                             <rect key="frame" x="0.0" y="0.0" width="191" height="264"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
