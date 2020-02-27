@@ -8,7 +8,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 - [x] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
 - [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
@@ -35,7 +35,7 @@ I was confused about using the API key but regardless it doesn't ever change. Al
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="https://i.gyazo.com/ed0019021c8c22b0e0a3ca68845ac6c4.gif" width=250><br>
+<img src="https://i.gyazo.com/f1182b9098fc7114c7463235cf2fb420.gif" width=250><br>
 
 ### Notes
 It was challenging remembering to set the identifier in the two locations for MovieCell. Also, I struggled with reading the api and getting the JSON to work. I had minor issues installing cocoapods but a retry seemed to work. Source control was difficult in the beginning but learning to work with the terminal has improved efficiency.
