@@ -15,9 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-<img src="https://i.gyazo.com/d770f307d886707e803efff370b06774.gif" width=250><br>
-<img src="https://i.gyazo.com/a4a51a7ab233607d1cb55624484db5a6.gif" width=250><br>
+<img src="https://i.gyazo.com/5efb688a1a4d2749aae4755258a97679.gif" width=250><br>
 
 ### Notes
 I was confused about using the API key but regardless it doesn't ever change. Also, task.resume() was something I left out that wasn't retrieving the movies from the api to my movies array. Another issue I had was with posterView not being UIImageView. The reason was because I control dragged and was accidentally accessing the collection view. 
