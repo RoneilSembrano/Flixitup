@@ -38,6 +38,8 @@ I was confused about using the API key but regardless it doesn't ever change. Al
 
 ### App Walkthough GIF
 <img src="https://i.gyazo.com/f1182b9098fc7114c7463235cf2fb420.gif" width=250><br>
+<img src="https://i.gyazo.com/a4a51a7ab233607d1cb55624484db5a6.gif" width=250><br>
+
 
 ### Notes
 It was challenging remembering to set the identifier in the two locations for MovieCell. Also, I struggled with reading the api and getting the JSON to work. I had minor issues installing cocoapods but a retry seemed to work. Source control was difficult in the beginning but learning to work with the terminal has improved efficiency.
